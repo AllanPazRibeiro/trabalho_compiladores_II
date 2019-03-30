@@ -1,0 +1,5 @@
+ADD     A, N
+SUB     A, N
+WR      A, MEM
+INC     A
+DEC     A
